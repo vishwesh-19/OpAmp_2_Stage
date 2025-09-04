@@ -1,2 +1,2 @@
 # OpAmp_2_Stage
-Designed a Two-Stage Operational Amplifier with gpdk 180nm technology node using Cadence Virtuoso simulation.
+Designed a Two-Stage Operational Amplifier with gpdk 180nm technology node using Cadence Virtuoso simulation. Amplifier was configured to attain a \textbf{DC gain} of 60dB, a \textbf{phase margin} $\ge$ 60 degrees, a \textbf{slew rate} of 20 V/$\mu$sec, \textbf{unity gain frequency} of 30MHz and \textbf{power dissipation} of $\le$ 300 $\mu$watt while it drove a capacitance $C_{L}$ = 2pF.
